@@ -72,7 +72,7 @@ print("Predicted MPG:", model.predict(sample)[0])
 ## 🚀 How to Run the Project
 
 ```bash
-git clone <https://github.com/parshva106/Autompg_linear_regression_project>
+git clone https://github.com/parshva106/Autompg_linear_regression_project
 cd <project-folder>
 pip install -r requirements.txt
 jupyter notebook Linear_Regression_Project2.ipynb
