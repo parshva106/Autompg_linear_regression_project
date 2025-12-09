@@ -1,6 +1,3 @@
-## 📄 **README.md**
-
-````markdown
 # 🚗 Auto MPG Prediction – Linear Regression Project
 
 This project builds and evaluates a **Linear Regression model** to predict a car's fuel efficiency (**MPG – miles per gallon**) using the classic **Auto MPG dataset**.  
